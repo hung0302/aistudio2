@@ -1,0 +1,5 @@
+{
+  "name": "MiniShop - E-commerce",
+  "description": "A simple e-commerce store with a product list, product details popup, and a shopping cart.",
+  "requestFramePermissions": []
+}
